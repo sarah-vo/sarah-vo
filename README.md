@@ -1,6 +1,5 @@
-### Hi there 👋
 
-Hi there! I'm Sarah (She/Her) 🏳️‍🌈 🇻🇳! Nice to meet you 👋
+#### Hi there! I'm Sarah (She/Her) 🏳️‍🌈 🇻🇳! Nice to meet you 👋
 
 - 🎓 I'm a fourth year student at SFU in BC studying Computing Science.
 - 📖 I have experience in full-stack web development, as well as embedded development. Check out my profile for more information.
